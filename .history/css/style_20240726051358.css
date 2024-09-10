@@ -1,0 +1,14 @@
+table{
+    border-collapse: collapse;
+    position:absolute;
+    top: 100px;
+    left:300px;
+   
+}
+th,td{
+    border:1px solid black;
+    text-align: center;
+}
+th{
+    background-color: aliceblue;
+}
